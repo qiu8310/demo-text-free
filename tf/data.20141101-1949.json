@@ -1,0 +1,13 @@
+{
+	"tf": "Text CED Free",
+	"red": "red",
+	"title": "配置标题",
+	"jsonForJS": {
+		"a": "aaa",
+		"b": "bbb"
+	},
+	"person": {
+		"boss": "li",
+		"employee": "qiu"
+	}
+}
